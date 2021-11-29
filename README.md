@@ -2,36 +2,39 @@
 ## OpenClassrooms  -  Centrale Supélec
 
 - ### [Analysez des données de systèmes éducatifs](https://github.com/mikaleroy/Analysez-des-donnees-de-systemes-educatifs)
-    * Dataviz
+    * Analyse exploratoire, nettoyage de données, data visualisation
     
 
 - ### [Concevez une application au service de la santé publique](https://github.com/mikaleroy/Concevez-une-application-au-service-de-la-sant--publique)
-    * Prédiction NutriScore
+    * Validation de la faisabilité d’une application
+    * Analyses univariées et multivariées
+    * Eentrainement de modèles pour prédire le Nutriscore
 
 
 - ### [Anticipez les besoins en consommation électrique de bâtiments](https://github.com/mikaleroy/Anticipez-les-besoins-en-consommation-electrique-de-batiments)
-    * feature engeneering
-    * modélisation
-    * Optimisation Hyperparamètres
+    * Analyse de la problématique, préparation des données et feature engineering
+    * Modélisation supervisée et optimisation des hyperparamètres
+    * Choix de métriques pertinentes pour l’évaluation des performances
     
 
 - ### [Segmentez des clients d'un site de e-commerce](https://github.com/mikaleroy/Segmentez-des-clients-d-un-site-de-e-commerce)
     * Clustering
-    * Visualisations de clusters
+    * Détection de profils clients, visualisations et évaluation de la qualité des clusters
     * Métriques clustering, évaluation et comparaison de clusters
-    * Création de persona
+    * Représentation graphique des segments( radar, Snake plot, squarify plot)
     * Evaluation du cycle de maintenance du modèle
      
 
 - ### [Classifiez automatiquement des biens de consommation](https://github.com/mikaleroy/Classifiez-automatiquement-des-biens-de-consommation)
     * NLP : TFidf, BOW
     * Computer Vision : OpenCV, ORB, SIFT, BOvW
-    * Réduction de dimensions
+    * Réduction de dimensions linéaires et non linéaires
     * Transfer learning ResNet50, Bert
-    
+    * Visualisation des clusters
     
 
 - ### [Implémentez un modèle de scoring](https://github.com/mikaleroy/Implementez-un-modele-de-scoring)
+    * Création d’un score répondant à la problématique métier
     * Unbalanced Classification
     * UnderSampling, OverSampling, Weigths
     * Voting Classifier
