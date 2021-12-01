@@ -5,7 +5,7 @@
     * Analyse exploratoire, nettoyage de données, data visualisation
     
 
-- ### [Concevez une application au service de la santé publique](https://github.com/mikaleroy/Concevez-une-application-au-service-de-la-sant--publique)
+- ### [Concevez une application au service de la santé publique](https://github.com/mikaleroy/Concevez-une-application-au-service-de-la-sante-publique)
     * Validation de la faisabilité d’une application
     * Analyses univariées et multivariées
     * Eentrainement de modèles pour prédire le Nutriscore
